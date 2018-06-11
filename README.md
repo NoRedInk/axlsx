@@ -1,3 +1,13 @@
+# NOTE: This fork is archived now that 3.0.0pre is released
+
+Please consider using `3.0.0pre`. As we're not using this anymore, consider it deprecated.
+
+How to use `3.0.0pre`? Just add this to your gemfile:
+
+```ruby
+gem 'axlsx', '3.0.0.pre'
+```
+
 Axlsx: Office Open XML Spreadsheet Generation
 ====================================
 [![Build Status](https://secure.travis-ci.org/randym/axlsx.svg?branch=master)](http://travis-ci.org/randym/axlsx/)
